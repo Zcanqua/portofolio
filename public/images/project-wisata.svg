@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="360" viewBox="0 0 640 360" role="img" aria-labelledby="title desc">
+  <title id="title">Ilustrasi konsep WisataKeluarga</title>
+  <desc id="desc">Mockup aplikasi wisata menampilkan destinasi alam di Lampung.</desc>
+  <defs><linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#282247"/><stop offset="1" stop-color="#152a35"/></linearGradient></defs>
+  <rect width="640" height="360" fill="url(#sky)"/>
+  <circle cx="500" cy="91" r="44" fill="#ffd899"/>
+  <path d="M0 265 172 117l126 144 114-111 228 162v48H0Z" fill="#315e64"/>
+  <path d="m0 293 165-96 133 102 143-112 199 118v45H0Z" fill="#1e3e49"/>
+  <rect x="48" y="38" width="256" height="274" rx="24" fill="#111521" stroke="#ffffff" stroke-opacity=".2"/>
+  <rect x="61" y="53" width="230" height="241" rx="17" fill="#171c2a"/>
+  <text x="80" y="83" fill="#8bf0d0" font-family="Arial,sans-serif" font-size="11" font-weight="700" letter-spacing="1">DISCOVER LAMPUNG</text>
+  <text x="80" y="118" fill="#f4f5fb" font-family="Arial,sans-serif" font-size="22" font-weight="700">Find your next</text>
+  <text x="80" y="145" fill="#f4f5fb" font-family="Arial,sans-serif" font-size="22" font-weight="700">family escape.</text>
+  <rect x="79" y="164" width="194" height="93" rx="12" fill="#294f55"/>
+  <path d="m79 234 57-47 41 34 31-23 65 47v12H79Z" fill="#8bf0d0"/>
+  <circle cx="228" cy="190" r="12" fill="#ffd899"/>
+  <rect x="80" y="271" width="98" height="8" rx="4" fill="#758094"/><rect x="80" y="284" width="62" height="5" rx="3" fill="#4a5266"/>
+</svg>

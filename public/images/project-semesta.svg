@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="360" viewBox="0 0 640 360" role="img" aria-labelledby="title desc">
+  <title id="title">Ilustrasi konsep Perpustakaan SEMESTA</title>
+  <desc id="desc">Mockup gelap katalog buku dengan aksen mint dan ungu.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#151a2a"/><stop offset="1" stop-color="#282247"/></linearGradient>
+    <linearGradient id="book" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#8bf0d0"/><stop offset="1" stop-color="#9a7cff"/></linearGradient>
+  </defs>
+  <rect width="640" height="360" fill="url(#bg)"/>
+  <rect x="34" y="34" width="572" height="292" rx="18" fill="#0d111b" stroke="#ffffff" stroke-opacity=".15"/>
+  <circle cx="58" cy="58" r="5" fill="#ff7b82"/><circle cx="76" cy="58" r="5" fill="#ffd166"/><circle cx="94" cy="58" r="5" fill="#8bf0d0"/>
+  <rect x="50" y="83" width="118" height="225" rx="10" fill="#151a28"/>
+  <text x="66" y="111" fill="#8bf0d0" font-family="Arial,sans-serif" font-size="13" font-weight="700">SEMESTA</text>
+  <rect x="66" y="133" width="67" height="7" rx="4" fill="#596078"/><rect x="66" y="153" width="82" height="7" rx="4" fill="#343a50"/><rect x="66" y="173" width="72" height="7" rx="4" fill="#343a50"/>
+  <text x="197" y="121" fill="#a8aec0" font-family="Arial,sans-serif" font-size="11" letter-spacing="2">YOUR NEXT CHAPTER</text>
+  <text x="197" y="163" fill="#f4f5fb" font-family="Arial,sans-serif" font-size="30" font-weight="700">Discover a new world.</text>
+  <rect x="197" y="193" width="94" height="92" rx="8" fill="url(#book)"/><rect x="307" y="193" width="94" height="92" rx="8" fill="#5d54a0"/><rect x="417" y="193" width="94" height="92" rx="8" fill="#286d69"/>
+  <path d="M216 218h56M216 232h42M326 218h56M326 232h42M436 218h56M436 232h42" stroke="#fff" stroke-opacity=".75" stroke-width="5" stroke-linecap="round"/>
+</svg>

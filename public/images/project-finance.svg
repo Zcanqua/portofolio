@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="360" viewBox="0 0 640 360" role="img" aria-labelledby="title desc">
+  <title id="title">Ilustrasi konsep Personal Finance UI</title>
+  <desc id="desc">Mockup dashboard keuangan dengan ringkasan dan grafik aktivitas.</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#161b2b"/><stop offset="1" stop-color="#263b46"/></linearGradient></defs>
+  <rect width="640" height="360" fill="url(#bg)"/>
+  <rect x="40" y="38" width="560" height="284" rx="18" fill="#0e121c" stroke="#fff" stroke-opacity=".15"/>
+  <rect x="59" y="56" width="111" height="247" rx="10" fill="#151a28"/>
+  <text x="76" y="83" fill="#8bf0d0" font-family="Arial,sans-serif" font-size="12" font-weight="700">FINANCE</text>
+  <rect x="75" y="105" width="73" height="7" rx="4" fill="#626a7e"/><rect x="75" y="126" width="54" height="7" rx="4" fill="#343a50"/><rect x="75" y="147" width="66" height="7" rx="4" fill="#343a50"/>
+  <text x="194" y="79" fill="#9ba3b7" font-family="Arial,sans-serif" font-size="10" letter-spacing="1">MONTHLY OVERVIEW</text>
+  <text x="194" y="112" fill="#f4f5fb" font-family="Arial,sans-serif" font-size="23" font-weight="700">Your money, in focus.</text>
+  <rect x="194" y="132" width="177" height="70" rx="10" fill="#171d2d" stroke="#fff" stroke-opacity=".08"/>
+  <text x="211" y="156" fill="#9ba3b7" font-family="Arial,sans-serif" font-size="10">TOTAL BALANCE</text><text x="211" y="184" fill="#8bf0d0" font-family="Arial,sans-serif" font-size="20" font-weight="700">$2,840.50</text>
+  <rect x="384" y="132" width="185" height="70" rx="10" fill="#171d2d" stroke="#fff" stroke-opacity=".08"/>
+  <text x="402" y="156" fill="#9ba3b7" font-family="Arial,sans-serif" font-size="10">MONTHLY SAVINGS</text><text x="402" y="184" fill="#9a7cff" font-family="Arial,sans-serif" font-size="20" font-weight="700">+24%</text>
+  <path d="M202 271h359" stroke="#ffffff" stroke-opacity=".1"/>
+  <rect x="220" y="235" width="24" height="36" rx="5" fill="#4d6480"/><rect x="270" y="219" width="24" height="52" rx="5" fill="#557f85"/><rect x="320" y="228" width="24" height="43" rx="5" fill="#4d6480"/><rect x="370" y="202" width="24" height="69" rx="5" fill="#8bf0d0"/><rect x="420" y="215" width="24" height="56" rx="5" fill="#557f85"/><rect x="470" y="191" width="24" height="80" rx="5" fill="#8bf0d0"/><rect x="520" y="209" width="24" height="62" rx="5" fill="#557f85"/>
+</svg>
