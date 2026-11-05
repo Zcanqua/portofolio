@@ -22,7 +22,12 @@
    php artisan migrate
    ```
 
-4. Untuk membuat akun administrator, atur `ADMIN_USERNAME` dan `ADMIN_PASSWORD` di `.env`, lalu jalankan:
+4. Sebelum membuat akun administrator dan password kalian bisa membuat file .env dengan cara
+   ```sh
+   echo "PORT=3000" >> .env
+   ```
+
+Untuk membuat akun administrator, atur `ADMIN_USERNAME` dan `ADMIN_PASSWORD` di `.env`, lalu jalankan:
 
    ```sh
    php artisan db:seed
