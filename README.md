@@ -43,3 +43,6 @@ Untuk membuat akun administrator, atur `ADMIN_USERNAME` dan `ADMIN_PASSWORD` di 
    ```
 
 Jangan commit `.env`, database lokal, log, sesi, maupun file cache. Gunakan `.env.example` sebagai template konfigurasi; sesuaikan `APP_URL` hanya untuk lingkungan deployment.
+
+
+# JANGAN LUPA NYALAIN LOCALHOST KALIAN YA :D
