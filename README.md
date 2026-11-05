@@ -1,6 +1,4 @@
-# Portfolio Ricky
-
-## Persiapan lokal
+## Sedikit tutor dariku :D
 
 1. Pasang dependensi PHP dan JavaScript:
 
